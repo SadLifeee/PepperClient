@@ -19,7 +19,7 @@
 
 2. **Download the Mod**:
 
-   - Find and download Pepper Client From Here: [Releases](https://github.com/SadLifeee/PepperClient)
+   - Find and download Pepper Client From Here: [Releases](https://github.com/SadLifeee/PepperClient/releases/tag/Minecraft)
    - Ensure the mod version you download is compatible with your Minecraft and Fabric Loader versions.
    - Save the mod `.jar` file to your computer.
 
